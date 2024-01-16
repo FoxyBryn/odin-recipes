@@ -1,0 +1,23 @@
+.content {
+  font-family: "Cambria", "Cochin", Georgia, Times, 'Times New Roman', serif;
+}
+
+.title {
+  text-align: center;
+  font-size: 60px;
+  font-weight: bold;
+  background-color: bisque;
+  color: darkblue;
+}
+
+.title-smaller {
+    font-size: 36px;
+}
+
+.list {
+  font-size: 36px;
+}
+
+.link {
+    font-size: 30px;
+}
